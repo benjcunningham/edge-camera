@@ -1,6 +1,6 @@
 <h1 align="center">📸 edge-camera</h1>
 
-The __rpi-camera__ is a demo of a camera-equipped Raspberry Pi and Jetson Nano,
+The __edge-camera__ is a demo of a camera-equipped Raspberry Pi and Jetson Nano,
 streaming live video, with an object detection overlay, via WebRTC.
 
 Some other fun particulars of the project:
